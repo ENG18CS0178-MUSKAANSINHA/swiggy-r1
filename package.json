@@ -1,0 +1,16 @@
+
+{
+  "name": "magical-arena",
+  "version": "1.0.0",
+  "description": "A simple magical arena game implemented in Node.js",
+  "main": "src/game.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
